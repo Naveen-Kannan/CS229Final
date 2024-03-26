@@ -1,2 +1,7 @@
 # CS229Final
-[CS_229_Final_Poster-3-2.pdf](https://github.com/Naveen-Kannan/CS229Final/files/14752129/CS_229_Final_Poster-3-2.pdf)
+
+Using a CNN to automatically classify Lean theorems into math subcategories (geometry, algebra, etc.)
+
+Check out our poster in the files above, CS_229_Final_Poster-3.pdf
+
+Created by Naveen Kannan, Sai Konkimalla and Kaden Nguyen
