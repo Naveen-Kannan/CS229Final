@@ -1,4 +1,4 @@
-# CS229Final
+# Lean Theorem Classification
 
 Using a CNN to automatically classify Lean theorems into math subcategories (geometry, algebra, etc.)
 
